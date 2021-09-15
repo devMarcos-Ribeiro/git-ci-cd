@@ -1,0 +1,23 @@
+{
+  "name": "git-ci-cd",
+  "version": "1.0.0",
+  "description": "Projeto para aprender git workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devMarcos-Ribeiro/git-ci-cd.git"
+  },
+  "keywords": [
+    "Aplicaçao",
+    "teste"
+  ],
+  "author": "devMarcos-Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devMarcos-Ribeiro/git-ci-cd/issues"
+  },
+  "homepage": "https://github.com/devMarcos-Ribeiro/git-ci-cd#readme"
+}
